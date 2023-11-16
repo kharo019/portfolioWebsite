@@ -1,15 +1,15 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
+    title: 'HooBank',
+    description: "By using React.js && Tailwind CSS, I created a modern UI/UX of a fictional bank. This is my first project using TailWind CSS and seeing the differences of using purely React and TailWind has opened my eyes in the different ways a website can be designed.",
+      image: '/images/hoobank.png',
+      tags: ['React', 'JavaScript', 'TailWindCSS'],
+    source: 'https://github.com/kharo019/bankModern',
     visit: 'https://google.com',
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'Bank Modern Web',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
@@ -25,6 +25,15 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
+  },
+  {
+    title: 'Unichat',
+    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    image: '/images/4.jpg',
+    tags: ['React', 'ChatEngine', 'Firebase'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
   },
   {
     title: 'Unichat',

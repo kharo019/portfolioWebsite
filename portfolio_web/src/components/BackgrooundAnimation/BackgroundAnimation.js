@@ -4,11 +4,15 @@ const BackgroundAnimation = () => (
   <div>
     <svg
       className="BgAnimation__svg"
-      viewBox="0 0 602 602"
+	  //moves the location where its placed 
+      viewBox="0 0 602 602" // 0 0 602 602
+	  // new two things added, erase if breaks the web
+	  width = "600"
+	  height = "600"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-    >
-      <g opacity="0.15">
+    > 
+      <g opacity="0.40"> {/*0.15*/}
         <path
           fillRule="evenodd"
           clipRule="evenodd"
@@ -54,7 +58,7 @@ const BackgroundAnimation = () => (
         transform="translate(-295.027 -193.118)"
         rx="1.07306"
         ry="1.07433"
-        fill="#46737"
+        fill="#46737" // #46737
       >
         <animateMotion
           dur="5s"
