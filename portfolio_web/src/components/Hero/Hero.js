@@ -9,10 +9,11 @@ const Hero = (props) => (
 	<LeftSection>
 		<SectionTitle main center>
 			Welcome To <br />
-			My Personal Portfolio
+			Kevin Haro's <br />
+			Personal <br />Portfolio
 		</SectionTitle>
 		<SectionText>
-			Hello There! I'm a software engineer and web developer based in El Paso, TX. My name is Kevin Haro and I am passion
+			Hello There! I'm a software engineer and web developer based in El Paso, TX.
 		</SectionText>
 		<Button onClick = {() => window.location = 'https://youtube.com'}>Learn More</Button>
 	</LeftSection>
