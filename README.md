@@ -1,4 +1,4 @@
-# portfolioWebsite
+# Personal Portfolio Website
  A personal Portfolio website to list all of the personal projects I've created as my time as a undergraduate student to post graduate 
 Build this project step by step with our detailed tutorial on JavaScript Mastery YouTube. Join the JSM family!
 📋 Table of Contents
