@@ -4,7 +4,7 @@ Welcome to my Portfolio Website—a curated collection of projects that showcase
 
 ## 📋 Table of Contents
 1. 🤖[Introduction](#Introduction)
-1. ⚙️ [Tech Stack](/uri "Tech Stack")
+1. ⚙️[Tech Stack](#TechStack)
 1. Features (#🔋Features)
 1. Technologies 🤸 Quick Start
 🕸️ Snippets
@@ -24,14 +24,14 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 
-⚙️ Tech Stack
-React.js
-Three.js
-React Three Fiber
-React Three Drei
-Email JS
-Vite
-Tailwind CSS
+## Tech Stack
+-React.js
+-Three.js
+-React Three Fiber
+-React Three Drei
+-Email JS
+-Vite
+-Tailwind CSS
 🔋 Features
 👉 Customizable 3D Hero Section: Includes a 3D desktop model easily customizable to suit specific needs.
 
