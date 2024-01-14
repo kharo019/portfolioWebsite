@@ -3,7 +3,7 @@
 Welcome to my Portfolio Website—a curated collection of projects that showcase my journey as both an undergraduate student and a self-taught developer. This platform serves as a testament to my commitment to continuous learning and my passion for creating impactful solutions.
 
 ## 📋 Table of Contents
-1. 🤖[Introduction](1.Introduction)
+1. 🤖[Introduction](#Introduction)
 1. ⚙️ [Tech Stack](/uri "Tech Stack")
 1. Features (#🔋Features)
 1. Technologies 🤸 Quick Start
