@@ -3,10 +3,10 @@
 Welcome to my Portfolio Website—a curated collection of projects that showcase my journey as both an undergraduate student and a self-taught developer. This platform serves as a testament to my commitment to continuous learning and my passion for creating impactful solutions.
 
 ## 📋 Table of Contents
-- [Introduction] (#🤖Introduction)
-- [Tech Stack] (#⚙️Tech Stack)
-- [Features] (#🔋Features)
-- [Technologies] 🤸 Quick Start
+1. 🤖[Introduction](/uri "Introduction")
+1. ⚙️ [Tech Stack](/uri "Tech Stack")
+1. Features (#🔋Features)
+1. Technologies 🤸 Quick Start
 🕸️ Snippets
 🔗 Links
 🚀 More
@@ -17,7 +17,7 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 
 
-## 🤖 Introduction
+## Introduction
 By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
