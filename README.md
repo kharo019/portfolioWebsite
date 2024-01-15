@@ -11,7 +11,6 @@ Welcome to my Portfolio Website—a curated collection of projects showcasing my
 
 ## 📋 Table of Contents
 1. 🤖[Introduction](#Introduction)
-1. ⚙️[TechStack](#TechStack)
 1. 🔋[Features](#Features)
 1. 💻[Technologies](#Technologies)
 1. 🤸[Quick Start](#QuickStart)
@@ -25,7 +24,7 @@ By developing this project, I gained hands-on experience in crafting immersive w
 ## 🚨Tutorial
 I want to credit [JavaScriptMastery](https://www.youtube.com/watch?v=0fYi8SGA20k) for providing a video demonstration and its effectiveness in understanding using these TechStack technologies and continue learning from JavaScript Mastery  
 
-## ⚙️TechStack
+## ⚙️Technologies
 - React.js
 - Three.js
 - React Three Fiber
