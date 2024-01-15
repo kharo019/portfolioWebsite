@@ -1,30 +1,33 @@
+![HelloThere](https://media.tenor.com/7ntZnTSe294AAAAM/hello-there.gif)
+
 # Personal Portfolio Website
 
-Welcome to my Portfolio Website—a curated collection of projects that showcase my journey as both an undergraduate student and a self-taught developer. This platform serves as a testament to my commitment to continuous learning and my passion for creating impactful solutions.
+Welcome to my Portfolio Website—a curated collection of projects showcasing my journey as an undergraduate student and a self-taught developer. This platform serves as a testament to my commitment to continuous learning and my passion for creating impactful solutions.
+![ReactJS](https://camo.githubusercontent.com/6d8b126f83c0e59e37021e68c3f650c5c98915301f4bf4db9661c8d1dc2725e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d726561637426636f6c6f723d363144414642)
+![ThreeJS](https://camo.githubusercontent.com/d333aaf2eaae70e8fdb7a92d2c90767abf48b4732d74ff52836c878bdc526fbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54687265655f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7468726565646f746a7326636f6c6f723d303030303030)
+![TailWindCSS](https://camo.githubusercontent.com/e69f163b0b8defad9786f979113f151063a893349c1fce6647cd7a4a334c6469/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e645f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7461696c77696e6463737326636f6c6f723d303642364434)
+![NPM Version](https://img.shields.io/npm/v/npm)
+
 
 ## 📋 Table of Contents
 1. 🤖[Introduction](#Introduction)
-1. ⚙️[Tech Stack](#TechStack)
-1. Features (#🔋Features)
-1. Technologies 🤸 Quick Start
-🕸️ Snippets
-🔗 Links
-🚀 More
-🚨 Tutorial
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, JavaScript Mastery.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+1. ⚙️[TechStack](#TechStack)
+1. 🔋[Features](#Features)
+1. 💻[Technologies](#Technologies)
+1. 🤸[Quick Start](#QuickStart)
+1. 🕸️[Snippets](#Snippets)
+1. 🔗[Links](#Links)
+1. 🚨[Tutorial](#Tutorial)
 
 
 
-## Introduction
-By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
+## 🤖Introduction
+By developing this project, I gained hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers like myself seeking to enhance their portfolio and captivate users with cutting-edge web design.
 
 
 
-## Tech Stack
+
+## ⚙️TechStack
 -React.js
 -Three.js
 -React Three Fiber
@@ -32,7 +35,8 @@ If you're getting started and need assistance or face any bugs, join our active 
 -Email JS
 -Vite
 -Tailwind CSS
-🔋 Features
+
+## 🔋Features
 👉 Customizable 3D Hero Section: Includes a 3D desktop model easily customizable to suit specific needs.
 
 👉 Interactive Experience and Work Sections: Utilizes animations powered by framer motion for engaging user experience.
@@ -51,7 +55,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 and many more, including code architecture and reusability
 
-🤸 Quick Start
+## 🤸Quick Start
 Follow these steps to set up the project locally on your machine.
 
 Prerequisites
