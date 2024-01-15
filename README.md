@@ -2,12 +2,12 @@
 
 # Personal Portfolio Website
 
-Welcome to my Portfolio Website—a curated collection of projects showcasing my journey as an undergraduate student and a self-taught developer. This platform serves as a testament to my commitment to continuous learning and my passion for creating impactful solutions.
+Welcome to my Portfolio Website—a curated collection of projects showcasing my journey as an undergraduate student and a self-taught developer. This platform serves as a testament to my commitment to continuous learning and my passion for creating impactful solutions.  
 ![ReactJS](https://camo.githubusercontent.com/6d8b126f83c0e59e37021e68c3f650c5c98915301f4bf4db9661c8d1dc2725e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163745f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d726561637426636f6c6f723d363144414642)
 ![ThreeJS](https://camo.githubusercontent.com/d333aaf2eaae70e8fdb7a92d2c90767abf48b4732d74ff52836c878bdc526fbb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54687265655f4a532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7468726565646f746a7326636f6c6f723d303030303030)
 ![TailWindCSS](https://camo.githubusercontent.com/e69f163b0b8defad9786f979113f151063a893349c1fce6647cd7a4a334c6469/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e645f4353532d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d7461696c77696e6463737326636f6c6f723d303642364434)
-![NPM Version](https://img.shields.io/npm/v/npm)
-
+![NPM Version](https://img.shields.io/npm/v/npm)  
+  
 
 ## 📋 Table of Contents
 1. 🤖[Introduction](#Introduction)
@@ -20,10 +20,10 @@ Welcome to my Portfolio Website—a curated collection of projects showcasing my
 
 
 ## 🤖Introduction
-By developing this project, I gained hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers like myself seeking to enhance their portfolio and captivate users with cutting-edge web design.
+By developing this project, I gained hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers like myself seeking to enhance their portfolio and captivate users with cutting-edge web design.  
 
 ## 🚨Tutorial
-I want to credit [JavaScriptMastery](https://www.youtube.com/watch?v=0fYi8SGA20k) for providing a video demonstration and its effectiveness in understanding using these TechStack technologies and continue learning from JavaScript Mastery
+I want to credit [JavaScriptMastery](https://www.youtube.com/watch?v=0fYi8SGA20k) for providing a video demonstration and its effectiveness in understanding using these TechStack technologies and continue learning from JavaScript Mastery  
 
 ## ⚙️TechStack
 - React.js
