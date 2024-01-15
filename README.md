@@ -9,7 +9,7 @@ Welcome to my Portfolio Website—a curated collection of projects showcasing my
 ![NPM Version](https://img.shields.io/npm/v/npm)  
 
 ## Visit Website 
-- ![Personal Website](https://khaor019dev.vercel.app/)
+- [Personal Website](https://khaor019dev.vercel.app/)
   
 
 ## 📋 Table of Contents
