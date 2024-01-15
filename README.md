@@ -24,7 +24,7 @@ By developing this project, I gained hands-on experience in crafting immersive w
 ## 🚨Tutorial
 I want to credit [JavaScriptMastery](https://www.youtube.com/watch?v=0fYi8SGA20k) for providing a video demonstration and its effectiveness in understanding using these TechStack technologies and continue learning from JavaScript Mastery  
 
-## ⚙️Technologies
+## 💻Technologies
 - React.js
 - Three.js
 - React Three Fiber
